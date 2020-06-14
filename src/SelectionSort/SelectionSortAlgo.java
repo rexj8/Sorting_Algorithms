@@ -12,5 +12,4 @@ public class SelectionSortAlgo<E> {
     public void swap(E[] array , E fill , E posMin){
 
     }
-
 }
